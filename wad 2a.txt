@@ -1,0 +1,20 @@
+Create a version control account on GitHub and use Git commands to create a repository and push your code to GitHub.
+
+1. create a new resporitory in github
+
+2. git config --global user.name 'TanmayBorse'
+   git config --global user.email 'tanmayborse171@gmail.com'
+
+3. cd "C:\User\ADMIN ...." move to directory where we want to move and add file on github
+
+4. git init (intiallize git on current directory)
+
+5. git add .(add file in git)
+
+6. git status
+
+7. git commit -m "commited for practical"
+
+8. git remote add origin "git_repository_path"
+
+9. git push -u origin master
